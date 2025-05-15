@@ -1,2 +1,3 @@
-# portfolio-website-basic-HTML-
-Simple HTML site linking to all projects and resume.
+# Portfolio Website
+
+Simple HTML-based site linking to data projects and resume.
